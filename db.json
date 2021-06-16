@@ -1,11 +1,59 @@
 {
-    "posts": [
+   "name":"LINA \"VI\" LAMBERT #47",
+   "description":"LINA \"VI\" LAMBERT - Some diligent monkeys are thought of simply as fishes!",
+   "image":"ipfs://bafkreidbxet437civkv74rcrtiheribno3u2dma6z2u6rlojgtucgmmduq",
+   "attributes":[
       {
-        "id": 1,
-        "title": "hello"
+         "trait_type":"BACK",
+         "value":"NONE"
+      },
+      {
+         "trait_type":"BASE",
+         "value":"DORAE"
+      },
+      {
+         "trait_type":"FACE",
+         "value":"CYBERPUNK1"
+      },
+      {
+         "trait_type":"HAIR",
+         "value":"LEVI"
+      },
+      {
+         "trait_type":"HEAD ACCESSORIES",
+         "value":"DORACOPTER"
+      },
+      {
+         "trait_type":"RACE",
+         "value":"METAHUMAN"
+      },
+      {
+         "trait_type":"STR",
+         "value":2
+      },
+      {
+         "trait_type":"AGI",
+         "value":1
+      },
+      {
+         "trait_type":"INT",
+         "value":3
+      },
+      {
+         "trait_type":"VIT",
+         "value":2
+      },
+      {
+         "trait_type":"PUNK",
+         "value":4
+      },
+      {
+         "trait_type":"TECH",
+         "value":4
+      },
+      {
+         "trait_type":"DEMONIC",
+         "value":3
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+   ]
+}
